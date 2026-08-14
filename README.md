@@ -53,6 +53,6 @@ The interface also provides Arabic labels for the predicted categories.
 ```text
 waste-image-classification/
 │
-├── Image_Waste_Classification_Project.ipynb
+├── Image_Waste_Classification.ipynb
 ├── README.md
 └── .gitignore
